@@ -1,4 +1,4 @@
-# Project Akhir EduTech 
+# Project Akhir EduTech 💻
 
 <ul>Nama : Dimas Aji Dinata</ul>
 <ul>NPM : 2515061057</ul>
