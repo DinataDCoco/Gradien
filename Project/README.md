@@ -5,6 +5,6 @@
 <ul>Departemen : Project & talent</ul>
 <ul>Project : Web Portofolio</ul>
 
-
+<br>
 <p>Berikut adalah website portofolio untuk memenuhi tugas akhir EduTech.</p>
 
